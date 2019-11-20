@@ -1,0 +1,29 @@
+body {
+    background: #AAA;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-outer {
+    width: 100%;
+    background: white;
+    margin: 0;
+}
+
+.nav-inner {
+    width: 960px;
+    margin: 0 auto;
+    background: #999;
+}
+
+.my-name {
+    width: 100px;
+    padding: 10px;
+    margin: 10px 50px 10px 50px;
+    border: 1px #dddddd solid;
+    color: #fdfdfd;
+    background: #4aaaa5 ;
+}
+.about-me {
+    color: #4aaaa5
+}
