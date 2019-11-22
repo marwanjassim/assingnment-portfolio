@@ -1,3 +1,6 @@
+/* Some codes where taken from w3school.com and changed and 
+edited the values like width background color and color
+*/
 input[type=text], select, textarea {
   font-family: Arial, Helvetica, sans-serif;
   width: 100%;
