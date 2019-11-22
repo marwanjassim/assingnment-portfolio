@@ -1,0 +1,30 @@
+.boxes {
+    float left: ;
+    margin: 1px;
+}
+.img1 {
+    width: 200px;
+    margin: 0px 10px 10px 0px;
+    float: left
+}
+.hangman {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    width: 200px;
+    text-align: center;
+    margin: 70px 0px;
+}
+.img2 {
+    width: 200px;
+    margin: 0px 10px 0px 0px;
+    float: left
+}
+.trivia {
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
+    width: 200px;
+    text-align: center;
+    margin: 70px 210px;
+}
